@@ -1,1 +1,31 @@
 # Silviaawuuuu.github.io/Wilbur/overlay.json
+{
+  "contact": "",
+"templates": [
+{
+"name": "Exactly",
+"sources": [
+"https://imgur.com/a/sCURmUm"
+],
+"x": 602,
+"y": 414
+},
+{
+"name": "Poetico",
+"sources": [
+"https://imgur.com/a/sCURmUm"
+],
+"x": 602,
+"y": 414
+},
+{
+"name": "Wilber",
+"sources": [
+"https://imgur.com/a/sCURmUm"
+],
+"x": 602,
+"y": 414
+}
+],
+"whitelist": [],
+"blacklist": []
